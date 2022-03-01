@@ -1,24 +1,20 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリ名
+ラクラク受付アプリ
 
-Things you may want to cover:
+# 概要
+お客様一人で受付が可能になり、その内容が管理画面で確認が出来る。
 
-* Ruby version
+# 制作背景(意図)
+前職にてお客様のご案内までの待ち時間が長く、満足度の低下や売り逃しに繋がっていた為。
 
-* System dependencies
+# DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
 
-* Configuration
 
-* Database creation
+# 実装予定の内容
+・管理機能の実装
+・ipadへの画面サイズ最適化
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
