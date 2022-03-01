@@ -9,6 +9,7 @@
 前職にてお客様のご案内までの待ち時間が長く、満足度の低下や売り逃しに繋がっていた為。
 
 # DEMO
+![image](https://user-images.githubusercontent.com/85665410/156122461-fedce2a5-3b19-4f20-9c76-67dfd952084b.png)
 
 
 # 実装予定の内容
