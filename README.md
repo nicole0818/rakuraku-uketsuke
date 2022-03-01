@@ -11,6 +11,9 @@
 # DEMO
 ![image](https://user-images.githubusercontent.com/85665410/156122461-fedce2a5-3b19-4f20-9c76-67dfd952084b.png)
 
+![image](https://user-images.githubusercontent.com/85665410/156122646-662107fc-32d3-4a19-94ae-f3e381228bee.png)
+
+
 
 # 実装予定の内容
 ・管理機能の実装
